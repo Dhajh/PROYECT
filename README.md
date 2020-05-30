@@ -89,20 +89,29 @@ El programa esta diseñado para trabajar en el Sistema Operativo Windows y tambi
 
 El equipo en el que se realizó el programa fue una lenovo ideapad 110:
 
+ https://github.com/Dhajh/PROYECT/blob/master/fotos/4.png
  
 Figura 1.- Especificaciones del dispositivo.
+
+ https://github.com/Dhajh/PROYECT/blob/master/fotos/5.png
  
 Figura 2.- Especificaciones de Windows.
 
 **4. 	Resultados**  
 Cada código da como resultado un mapa .html, la diferencia que existe es que el mapa tipo Cutler muestra la cantidad de sismos en cada zona y eso nos sirve para realizar cálculos pos-teriores también muestra la descripción del pun-to, mientras que el otro código muestra un ma-pa más sencillo con un icono y color según la magnitud del sismo. Cada código primero lee el archivo Excel .CSV (Delimitado por comas) y después interpreta la información y lo plasma gráficamente, el mapa es interactivo por lo que el usuario puede darle ZOOM y ver más a deta-lle la localización del sismo. 
  
+https://github.com/Dhajh/PROYECT/blob/master/fotos/6.png
 
 Figura 3.- Archivo CSV(delimitado por comas) descargado del SSN.
  
+ 
+ 
 Figura 4.- mapa tipo custler
  
+ https://github.com/Dhajh/PROYECT/blob/master/fotos/11.png
+ 
 Figura 5.- descripción del punto en mapa tipo custler.
+ 
  
 Figura 6.- Mapa sencillo creado con las coordenadas.
 **5. 	Conclusiones.**
