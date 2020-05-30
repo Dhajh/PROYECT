@@ -27,10 +27,15 @@ Para este proyecto es necesario saber y mos-trar gráficamente en el mapa del pa
 La geolocalización es una tecnología que cubre un gran número de fines, pero para este proyec-to la principal ventaja es mostrar los puntos de cada uno de los sismos captados en todo el país y como se mencionó anteriormente hace algunos años este proceso tardaba mucho tiempo y no se contaba con la precisión que hoy en día se tiene con ayuda de los satélites. Entonces al momento de querer presentar esta información gráficamente sólo se debe dispo-ner de algún dispositivo móvil e ingresar alguna dirección específica y comenzar a interactuar con esta maravillosa tecnología.
 
   **1.2. 	Programa por utilizar.**
+  
 El programa para utilizar es Spyder con Python 3.7.2, donde se escribió el código que solicita la base de datos .CSV y al mismo tiempo se corrió para poder ver los resultados en dos mapas uno tipo custler y otro sencillo ambos .html, presentando la ubicación, fecha y la magnitud de cada uno de los sismos captura-dos en esos 10 días (12-22 de junio del 2017). 
+
   **1.3. 	Folium**
+  
 Folium es una librería que facilita la visualización de información manipulada en Pyhton en un mapa interactivo. Para poder instalarlo fue ne-cesario instalar Jupyter y trabajar con el código en Notebook respetando el lenguaje de progra-mación Python. 
+
   **2. 	Desarrollo Experimental**
+  
 La finalidad del programa es que mediante una base de datos .CSV bajada del SSN (Servicio Sismológico Nacional) la cual contiene la canti-dad de sismos captados en 10 días en todo el país y que el programa con la librería folium muestre dos mapas, uno tipo custler y otro simple ambos .html, con dicha información de manera gráfica con el fin de que cualquier indi-viduo pueda comprender la información que contiene la base de datos. 
 Primero importamos el módulo “pandas”. Este módulo se encarga de leer archivos como el siguiente. La variable “sismos” es un matriz que contiene la información leída de “sis-mo10dias.csv”
 
@@ -55,7 +60,6 @@ Todo sigue igual, pero en lugar de adherirle directamente los marcadores a nuest
 Pero a la hora de crear el HTML si será a nues-tro mapa mexico.
 
 Código mapa tipo Cutler:
- 
  https://github.com/Dhajh/PROYECT/blob/master/fotos/9.png
  
 
@@ -67,6 +71,7 @@ Código de mapa simple:
  
 
   **3. 	Manejo de datos.**
+  
 El proyecto manejó información del Servicio Sismológico Nacional.
   
   **3.1. 	Tipo de datos**
