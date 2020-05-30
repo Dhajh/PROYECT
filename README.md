@@ -60,12 +60,13 @@ Todo sigue igual, pero en lugar de adherirle directamente los marcadores a nuest
 Pero a la hora de crear el HTML si será a nues-tro mapa mexico.
 
 Código mapa tipo Cutler:
+
  https://github.com/Dhajh/PROYECT/blob/master/fotos/9.png
  
 
 Código de mapa simple:
  
-
+https://github.com/Dhajh/PROYECT/blob/master/fotos/1.png
  
 
  
@@ -87,6 +88,7 @@ El programa esta diseñado para trabajar en el Sistema Operativo Windows y tambi
   **3.3. 	Equipo de prueba.**
 
 El equipo en el que se realizó el programa fue una lenovo ideapad 110:
+
  
 Figura 1.- Especificaciones del dispositivo.
  
