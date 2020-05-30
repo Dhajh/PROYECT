@@ -61,12 +61,12 @@ Pero a la hora de crear el HTML si será a nues-tro mapa mexico.
 
               Código mapa tipo Cutler:  
 
- https://github.com/Dhajh/PROYECT/blob/master/fotos/9.png
+ ![PalabrasdelTextoAlternativo](https://github.com/Dhajh/PROYECT/blob/master/fotos/9.png)
  
 
               Código de mapa simple: 
  
-https://github.com/Dhajh/PROYECT/blob/master/fotos/1.png
+![PalabrasdeltextoAlternativo](https://github.com/Dhajh/PROYECT/blob/master/fotos/1.png)
  
 
  
@@ -89,30 +89,33 @@ El programa esta diseñado para trabajar en el Sistema Operativo Windows y tambi
 
 El equipo en el que se realizó el programa fue una lenovo ideapad 110:
 
- https://github.com/Dhajh/PROYECT/blob/master/fotos/4.png
+ ![PalabrasdelTextoAlternativo](https://github.com/Dhajh/PROYECT/blob/master/fotos/4.png)
  
 Figura 1.- Especificaciones del dispositivo.
 
- https://github.com/Dhajh/PROYECT/blob/master/fotos/5.png
+ ![PalabrasdelTextoAlternativo](https://github.com/Dhajh/PROYECT/blob/master/fotos/5.png)
  
 Figura 2.- Especificaciones de Windows.
 
 **4. 	Resultados**  
 Cada código da como resultado un mapa .html, la diferencia que existe es que el mapa tipo Cutler muestra la cantidad de sismos en cada zona y eso nos sirve para realizar cálculos pos-teriores también muestra la descripción del pun-to, mientras que el otro código muestra un ma-pa más sencillo con un icono y color según la magnitud del sismo. Cada código primero lee el archivo Excel .CSV (Delimitado por comas) y después interpreta la información y lo plasma gráficamente, el mapa es interactivo por lo que el usuario puede darle ZOOM y ver más a deta-lle la localización del sismo. 
  
-https://github.com/Dhajh/PROYECT/blob/master/fotos/6.png
+ ![PalabrasdelTextoAlternativo](https://github.com/Dhajh/PROYECT/blob/master/fotos/6.png)
 
                  Figura 3.- Archivo CSV(delimitado por comas) descargado del SSN.
  
- https://github.com/Dhajh/PROYECT/blob/master/fotos/12.png
+ ![PalabrasdelTextoAlternativo](https://github.com/Dhajh/PROYECT/blob/master/fotos/1.png)
+ 
  
                  Figura 4.- mapa tipo custler
  
- https://github.com/Dhajh/PROYECT/blob/master/fotos/11.png
+ ![PalabrasdelTextoAlternativo](https://github.com/Dhajh/PROYECT/blob/master/fotos/11.png)
+ 
  
                  Figura 5.- descripción del punto en mapa tipo custler.
  
- https://github.com/Dhajh/PROYECT/blob/master/fotos/7.png
+ ![PalabrasdelTextoAlternativo](https://github.com/Dhajh/PROYECT/blob/master/fotos/7.png)
+ 
   
                  Figura 6.- Mapa sencillo creado con las coordenadas.
 **5. 	Conclusiones.**
@@ -120,7 +123,8 @@ https://github.com/Dhajh/PROYECT/blob/master/fotos/6.png
 El programar con Python nos ofrece una flexibi-lidad a la hora de escribir el código, grandes programas han sido creados gracias a la misma flexibilidad, para este caso Python ayudó para la visualización correcta de la información.
 El usuario puede observar con claridad a detalle la descripción de cada punto como se muestra en la siguiente imagen.
  
- https://github.com/Dhajh/PROYECT/blob/master/fotos/8.png
+ ![PalabrasdelTextoAlternativo](https://github.com/Dhajh/PROYECT/blob/master/fotos/8.png)
+ 
  
                  Figura 7.- descripción del punto. 
 
