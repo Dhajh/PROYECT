@@ -53,9 +53,10 @@ La función folium.MarkerCluster es el que crea esta modalidad de juntar geomét
 Todo sigue igual, pero en lugar de adherirle directamente los marcadores a nuestro mapa se los ponemos a la variable mapCluster, que es la variable utilizada para crear el cluster.
  
 Pero a la hora de crear el HTML si será a nues-tro mapa mexico.
+
 Código mapa tipo Cutler:
  
- 
+ https://github.com/Dhajh/PROYECT/blob/master/fotos/9.png
  
 
 Código de mapa simple:
