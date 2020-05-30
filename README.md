@@ -125,7 +125,7 @@ El usuario puede observar con claridad a detalle la descripción de cada punto c
                  Figura 7.- descripción del punto. 
 
 Teniendo a la mano los dos mapas se realizó el análisis sísmico en el cual nos damos cuenta que en un total de 10 días se registraron un total de 207 sismos,  la zona donde se registró la mayor cantidad fue en la zona de Oaxaca, Chiapas  y que colinda con la frontera de Gua-temala, en esta zona se registraron un total de 176 sismos. La segunda zona con más sismos se encuentra entre los municipios de Colima y Michoacán con un total de 19 sismos y por último la zona donde se registró la menor canti-dad de eventos sísmicos fue en las dos Baja California. 
-Esta metodología usada puede servir para apli-carlos en la sismología de la actualidad ya que hoy en día hay mayor monitoreo que los que se tenían en esa época, lamentablemente no se pudo obtener un archivo reciente para poder hacer el análisis multitemporal utilizando fechas distintas.
+Esta metodología usada puede servir para aplicarlos en la sismología de la actualidad ya que hoy en día hay mayor monitoreo que los que se tenían en esos  años.
 
   **6. 	Referencias.**
 
