@@ -59,7 +59,7 @@ Todo sigue igual, pero en lugar de adherirle directamente los marcadores a nuest
  
 Pero a la hora de crear el HTML si será a nues-tro mapa mexico.
 
-              Código mapa tipo Cutler:  
+              Código mapa tipo Clúster
 
  ![PalabrasdelTextoAlternativo](https://github.com/Dhajh/PROYECT/blob/master/fotos/9.png)
  
