@@ -1,5 +1,5 @@
 # Mapeo de los sismos captados en el país
-  ### Programa para localizar los sismos captados en el país en la primera semana de junio del 2017
+  ### Programa para localizar los sismos captados en el país del 12 de junio del 2017 al 22 de junio del 2017
  ### Juan David Hernández Hernández
   ###### Facultad de Ingeniería Civil, Carretera Coquimatlán Kilómetro 9, Coquimatlán 28,400, Coquimatlán, Coli-ma, Juan David Hernández hernández, jhernandez14@ucol.mx
   **Resumen**
