@@ -59,12 +59,12 @@ Todo sigue igual, pero en lugar de adherirle directamente los marcadores a nuest
  
 Pero a la hora de crear el HTML si será a nues-tro mapa mexico.
 
-Código mapa tipo Cutler:
+              Código mapa tipo Cutler:  
 
  https://github.com/Dhajh/PROYECT/blob/master/fotos/9.png
  
 
-Código de mapa simple:
+              Código de mapa simple: 
  
 https://github.com/Dhajh/PROYECT/blob/master/fotos/1.png
  
@@ -102,19 +102,19 @@ Cada código da como resultado un mapa .html, la diferencia que existe es que el
  
 https://github.com/Dhajh/PROYECT/blob/master/fotos/6.png
 
-Figura 3.- Archivo CSV(delimitado por comas) descargado del SSN.
+                 Figura 3.- Archivo CSV(delimitado por comas) descargado del SSN.
  
  https://github.com/Dhajh/PROYECT/blob/master/fotos/12.png
  
-Figura 4.- mapa tipo custler
+                 Figura 4.- mapa tipo custler
  
  https://github.com/Dhajh/PROYECT/blob/master/fotos/11.png
  
-Figura 5.- descripción del punto en mapa tipo custler.
+                 Figura 5.- descripción del punto en mapa tipo custler.
  
  https://github.com/Dhajh/PROYECT/blob/master/fotos/7.png
- 
-Figura 6.- Mapa sencillo creado con las coordenadas.
+  
+                 Figura 6.- Mapa sencillo creado con las coordenadas.
 **5. 	Conclusiones.**
  
 El programar con Python nos ofrece una flexibi-lidad a la hora de escribir el código, grandes programas han sido creados gracias a la misma flexibilidad, para este caso Python ayudó para la visualización correcta de la información.
@@ -122,7 +122,7 @@ El usuario puede observar con claridad a detalle la descripción de cada punto c
  
  https://github.com/Dhajh/PROYECT/blob/master/fotos/8.png
  
-Figura 7.- descripción del punto.
+                 Figura 7.- descripción del punto. 
 
 Teniendo a la mano los dos mapas se realizó el análisis sísmico en el cual nos damos cuenta que en un total de 10 días se registraron un total de 207 sismos,  la zona donde se registró la mayor cantidad fue en la zona de Oaxaca, Chiapas  y que colinda con la frontera de Gua-temala, en esta zona se registraron un total de 176 sismos. La segunda zona con más sismos se encuentra entre los municipios de Colima y Michoacán con un total de 19 sismos y por último la zona donde se registró la menor canti-dad de eventos sísmicos fue en las dos Baja California. 
 Esta metodología usada puede servir para apli-carlos en la sismología de la actualidad ya que hoy en día hay mayor monitoreo que los que se tenían en esa época, lamentablemente no se pudo obtener un archivo reciente para poder hacer el análisis multitemporal utilizando fechas distintas.
