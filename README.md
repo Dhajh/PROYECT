@@ -56,11 +56,11 @@ Folium.Marker es una función de folium que nos ayuda a poner marcadores, pondre
 “Mexico.save” es la función que crea el HTML, en este caso llamada “map.html”.
  
 
- ![PalabrasdelTextoAlternativo]_(https://github.com/Dhajh/PROYECT/blob/master/fotos/1.png)
+  ![PalabrasdelTextoAlternativo]_(https://github.com/Dhajh/PROYECT/blob/master/fotos/1.png)
  
-Código del primer programa con los 207 datos.
+                     Código del primer programa con los 207 datos.     
  
-Código del segundo programa con los 30045 datos capturados en 1 año.
+                  Código del segundo programa con los 30045 datos capturados en 1 año.
 
 3. 	Manejo de datos.
 El proyecto manejó información del Servicio Sismológico Nacional.
