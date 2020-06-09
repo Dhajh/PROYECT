@@ -95,7 +95,7 @@ El equipo en el que se realizó el programa fue una lenovo ideapad 110:
 El código da como resultado un mapa .html, en el cual el usuario puede ingresar a la visualiza-ción del mapa para poder comprender la infor-mación en el archivo .CSV pues muestra con color la magnitud del sismo capturado por el Servicio Sismológico Nacional de la UNAM. Además el usuario puede hacer Zoom para po-der ver de más cerca el punto del sismo y con la etiqueta haciendo clik sobre el punto puede ver de qué magnitud y que fecha fue capturado el sismo. En el primer intento de este programa se llevó un proceso con 207 datos capturados en 10 días en el año 2017 en el mes de junio. 
 Mientras que en el segundo intento se cargó un archivo .CSV con mayor cantidad de datos para ser exactos 30045 datos con la finalidad de comprobar que el programa puede procesar más datos se le cargó un nuevo archivo. El mapa se sigue mostrando, aunque esta vez el mapa tarda más debido a la gran cantidad de datos a procesar, ese podría ser uno de los factores que impiden la rápida visualización del mapa entre otros factores más como la veloci-dad del internet y la capacidad de la compu-tadora para efectuar las tareas.
 
-! [PalabrasdeltextoAlternativo](https://github.com/Dhajh/PROYECT/blob/master/fotos/6.png)
+![PalabrasdeltextoAlternativo](https://github.com/Dhajh/PROYECT/blob/master/fotos/6.png)
 
                             Figura 3.- Archivo CSV(delimitado por comas) descargado del SSN.
 
@@ -116,9 +116,10 @@ Mientras que en el segundo intento se cargó un archivo .CSV con mayor cantidad 
 El programar con Python nos ofrece una flexibi-lidad a la hora de escribir el código, grandes programas han sido creados gracias a la misma flexibilidad, para este caso Python ayudó para la visualización correcta de la información.
 El usuario puede observar con claridad a detalle la descripción de cada punto como se muestra en la siguiente imagen.
  
- ![PalabrasdeltextoAlternativo](https://github.com/Dhajh/PROYECT/blob/master/fotos/6.png)
+ ![PalabrasdeltextoAlternativo](https://github.com/Dhajh/PROYECT/blob/master/fotos/8.png)
                        
                        Figura 7.- descripción del punto.
+                       
 Teniendo a la mano los dos mapas se llegó a la conclusión que el producto es el mismo en cuestión al tipo de puntos mostrados en el ma-pa (etiquetas e información dentro de las mis-mas). El programa tiene la capacidad de proce-sar gran cantidad de datos, pero las limitantes son el tipo de computadora usada y la red a la que esté conectado dicho dispositivo, que co-mo se mencionó anteriormente la cantidad de datos que se capturaron el un año fueron 30045.
 Creo que este programa podría mejorarse aún más si se corriera el programa en una compu-tadora con más capacidad y velocidad al efec-tuar las tareas, no obstante, cumple con el ma-peo de los puntos gracias a la librería folium.
 Esta metodología usada puede servir para apli-car no solo datos sismológicos si no cualquier dato o información que tenga coordenadas lo cual permite la geolocalización en un plano en este caso un mapa de la república mexicana.
@@ -129,8 +130,5 @@ He visto aplicaciones que realizan este proceso de localización y las grafican 
 •	García, j. (Agosto de 2017). Reseachgate. Obtenido de https://www.researchgate.net/publication/319654852_La_Geolocalizacion
 
 •	Garcia, J.. (2015). Folium: utilizando Le-aflet con Python. 19/05/2020, de Map-pingGIS Sitio web: https://mappinggis.com/2018/10/folium-utilizando-leaflet-con-python
- 
 
-###
-    ###
     
