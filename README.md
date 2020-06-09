@@ -1,9 +1,9 @@
 # Mapeo de los sismos captados en el país
   ### Programa para localizar los sismos captados en el país del 12 de junio del 2017 hasta 22 de junio de 2017 y los sismos capturados del 1 de junio de 2019 hasta el 08 de junio de 2020
    ### Juan David Hernández Hernández
-     ###### (1) Facultad de Ingeniería Civil, carretera Coquimatlán kilometro 9, Coquimatlán 28 400, Coquimatlán, Colima, Juan David Hernández Hernández, jhernandez41@ucol.mx
+###### (1) Facultad de Ingeniería Civil, carretera Coquimatlán kilometro 9, Coquimatlán 28 400, Coquimatlán, Colima, Juan David Hernández Hernández, jhernandez41@ucol.mx
  
-   * Resumen *
+   *Resumen*
    
 El siguiente proyecto resuelve la problemática de conocer la cantidad de sismos transcurridos en un periodo de 10 días y de esta forma conocer las zo-nas donde se dieron la mayor cantidad de sismos toda información recopilada sobre los sismos fue adquirirá de la página del servicio sismológico na-cional, el objetivo principal es fue realizar un análisis sísmico donde denotáramos las zonas donde hay más actividad sísmica en el país. Como resultados obtuvimos dos mapas prácticamente eran iguales solo que a uno de ellos muestra mayor cantidad de puntos en el mapa debido a la cantidad de datos leídos.
 Palabras clave: Mapeo, Python, Folium, Csv, mapa.
@@ -14,7 +14,8 @@ Palabras clave: Mapeo, Python, Folium, Csv, mapa.
 The following project solves the problem of knowing the number of earthquakes that have elapsed in a period of 10 days and, in this way, knowing the areas where the greatest number of earthquakes occurred. All the information collected on the earthquakes was acquired from the seismological service page. na-tional, the main objective is to carry out a seismic analysis where we denote the areas where there is more seismic activity in the country. As results, we obtained two maps that were practically the same, only one of them shows more points on the map due to the amount of data.
 Keywords: Python, Folium, Csv, map.
  
-1. 	Introducción
+ **1. 	Introducción**
+ 
 En nuestro estado es normal hablar de sismo, esto se debe a que una de las fallas tectónicas más conocidas y con mayor actividad rodea nuestras costas, además el estado cuenta con un imponente volcán que constantemente mues-tra actividad. Un sismo es un fenómeno natural ocasionado por el desplazamiento de las placas tectónicas y el mismo movimiento del magma que proviene desde el núcleo del planeta. La institución que se encarga de monitorear y de registrar este tipo de fenómenos es el Servicio Sismológico Nacional el cual genera una base de datos la cual muestra información de cada uno de los sismos que se manifiestan en todo el país, la información que muestra es la fecha, magnitud y localización de donde sucedió el sismo. Para nuestra área (Topografía) es muy importante mapear características de este tipo, afortunada y actualmente se cuentan con las herramientas necesarias para poder lograr un mapeo y poder plasmar la información que nos brinda el SSN (Servicio Sismológico Nacional) en un plano, la programación nos ofrece las herramientas necesarias para poder graficar dicha información infinidad de veces sin impor-tar la cantidad de datos que se tengan. En la antigüedad el proceso de graficar información era muy complicada pues el dibujar a mano grandes cantidades de información llevaba mu-cho tiempo, ahora cualquier individuo que cuen-te con un dispositivo móvil con internet puede consultar información gráfica de manera rápida y confiable. Esto se puede lograr gracias a los satélites que orbitan nuestro planeta los cuales realizan un proceso de geolocalización el cual se encarga de ubicar en el espacio algún punto. 
 Ya que es común no saber cómo llegar a una dirección y con solo consultar a un navegador llegar al lugar deseado.
 Para este proyecto es necesario saber y mos-trar gráficamente en el mapa del país la canti-dad de sismos que se obtuvieron en 10 días y los sismos capturados en un año desde junio de 2019 hasta junio de 2020, mostrando la loca-lización, magnitud y fecha.
@@ -23,13 +24,20 @@ Para este proyecto es necesario saber y mos-trar gráficamente en el mapa del pa
 
 
  
-1.1. 	Ventajas de la Geolocalización.
+ **1.1. 	Ventajas de la Geolocalización.**
+ 
 La geolocalización es una tecnología que cubre un gran número de fines, pero para este proyec-to la principal ventaja es mostrar los puntos de cada uno de los sismos captados en todo el país y como se mencionó anteriormente hace algunos años este proceso tardaba mucho tiempo y no se contaba con la precisión que hoy en día se tiene con ayuda de los satélites. Entonces al momento de querer presentar esta información gráficamente sólo se debe dispo-ner de algún dispositivo móvil e ingresar alguna dirección específica y comenzar a interactuar con esta maravillosa tecnología
-1.2. 	Programa por utilizar.
+
+ **1.2. 	Programa por utilizar.**
+ 
 El programa para utilizar es Python 3.7.2, donde se escribió el código que solicita la base de datos .CSV y al mismo tiempo se corrió para poder ver los resultados en dos mapas senci-llos ambos .html, presentando la ubicación, fecha y la magnitud de cada uno de los sismos capturados en el periodo: (10-06-2017 a 08-06-2020). 
-1.3. 	Folium
+
+  **1.3. 	Folium**
+  
 Folium es una librería que facilita la visualización de información manipulada en Pyhton en un mapa interactivo. Para poder instalarlo fue ne-cesario instalar Jupyter y trabajar con el código en Notebook respetando el lenguaje de progra-mación Python. 
-2. 	Desarrollo Experimental
+
+**2. 	Desarrollo Experimental**
+
 La finalidad del programa es que mediante una base de datos .CSV bajada del SSN (Servicio Sismológico Nacional) la cual contiene la canti-dad de sismos captados en el periodo estable-cido en todo el país y que el programa con la librería folium muestre dos mapas ambos .html, con dicha información de manera gráfica con el fin de que cualquier individuo pueda compren-der la información que contiene la base de da-tos. 
 Primero importamos el módulo “pandas”. Este módulo se encarga de leer archivos como el siguiente. La variable “sismos” es un matriz que contiene la información leída de “Sismo10días” y de “SSNMX_catalogo_20170610_20200608”
 
